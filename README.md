@@ -1,2 +1,1 @@
-# ujjwaltask
-It is a task project for bid o homes.
+React js project project inventory system
